@@ -10,6 +10,7 @@ const TutorialSection: React.FC = () => {
           bgcolor: "secondary.main",
           textAlign: "center",
           mt: 5,
+          mb: 4,
           p: 2,
           borderRadius: 2,
         }}

@@ -33,7 +33,7 @@ const PlansSection = () => {
         <Grid container justifyContent="center" sx={{ mt: 2 }}>
           <Grid container spacing={5}>
             {items.map((plan, index) => (
-              <Grid size={{ xs: 12, md: 6 }} key={index}>
+              <Grid size={{ xs: 12, md: 3 }} key={index}>
                 <Card
                   sx={{
                     height: "100%",

@@ -39,8 +39,8 @@ const StartPage: React.FC = () => {
           <Box sx={{ p: 2, display: "flex", justifyContent: "center" }}>
             <Image
               src="/assets/building_website.svg"
-              width={900}
-              height={900}
+              width={600}
+              height={600}
               alt="Building"
             />
           </Box>

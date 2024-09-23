@@ -23,9 +23,9 @@ const LandingPage = () => {
       <BuildingSection />
       <FeatureAppSection />
       <TutorialSection />
-      <CommentsSection />
       {/* <ServicesSection /> */}
       <PlansSection />
+      <CommentsSection />
       <ContactSection />
       {/* <ClientSection /> */}
       <ChatButton />
